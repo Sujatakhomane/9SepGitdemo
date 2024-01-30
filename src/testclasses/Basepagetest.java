@@ -1,6 +1,6 @@
 package testclasses;
 
-public class Loginpagetest {
+public class Basepagetest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
